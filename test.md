@@ -2,3 +2,5 @@
 this is **good**
 -  point 1
 -  point 2
+
+../index.md
